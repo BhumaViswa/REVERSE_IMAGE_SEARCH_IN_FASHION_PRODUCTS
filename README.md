@@ -2,7 +2,7 @@
  Search for similar or related images from the trained data based on an input image. 
 
 ## HOW TO RUN THE CODES
-1)Run feature_extraction.ipynb code first. The data set used in this code is from kaggle(link).
+1)Run feature_extraction.ipynb code first. The data set used in this code is from kaggle(link...https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small).
 2)Then download the pickle file for the feature extraction.
 3)Next run the "reverse_image_search.ipynb"  by replacing the pickle file and test images with your own data set if you want.
 
